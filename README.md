@@ -2,7 +2,7 @@
 
 A single WHMCS hook that adds Google Analytics 4 (and optionally Google Ads) to the client area the way GDPR expects it: every storage type starts **denied**, a small banner asks once, and the visitor's choice is kept in a first-party cookie. Until consent is given Google receives only cookieless pings, so you still see modelled traffic without setting a single cookie.
 
-Built and used in production by [VPSPioneer](https://vpspioneer.com), a UK hosting company running WHMCS 9.
+Maintained by [VPSPioneer](https://vpspioneer.com), a UK hosting company. Written for WHMCS 8 and 9.
 
 ## What it does
 
